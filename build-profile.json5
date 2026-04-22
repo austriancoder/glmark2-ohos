@@ -6,12 +6,12 @@
         "type": "HarmonyOS",
         "material": {
           "certpath": "/Users/christian/.ohos/config/default_glmark2_Q-x2jauFvLLD-52tak26xNLenz3kd7p7c5yz0D_SSAs=.cer",
-          "storePassword": "0000001B1F0120D77AC78D91B602BA8A473C89C349AFB13847DAAFCBB69D17BD3B73AB262BC3F1825605B5",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001B1E7EC744484EAC2F3FDAB4FC2346D16C0CE085328BAD3C05E162B71B1A2E4C36BEB9822A980502",
+          "keyPassword": "0000001A27F45F4B17E885D4513D6DAEA78AE69F51F850536A9C29B46D55816604D46DEA21F58B3E73F2",
           "profile": "/Users/christian/.ohos/config/default_glmark2_Q-x2jauFvLLD-52tak26xNLenz3kd7p7c5yz0D_SSAs=.p7b",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "/Users/christian/.ohos/config/default_glmark2_Q-x2jauFvLLD-52tak26xNLenz3kd7p7c5yz0D_SSAs=.p12"
+          "storeFile": "/Users/christian/.ohos/config/default_glmark2_Q-x2jauFvLLD-52tak26xNLenz3kd7p7c5yz0D_SSAs=.p12",
+          "storePassword": "0000001A2ADFCD69378242CF03D29BCFD1075A0750B79FFB728BBDFAC1C9EF41DF9372A8D55B4DA68858"
         }
       }
     ],
@@ -26,7 +26,8 @@
             "caseSensitiveCheck": true,
             "useNormalizedOHMUrl": true
           }
-        }
+        },
+        "targetSdkVersion": "6.0.0(20)"
       }
     ],
     "buildModeSet": [

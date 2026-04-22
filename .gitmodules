@@ -1,0 +1,6 @@
+[submodule "entry/src/main/cpp/glmark2"]
+	path = entry/src/main/cpp/glmark2
+	url = https://github.com/glmark2/glmark2.git
+[submodule "entry/src/main/cpp/libpng1.6"]
+	path = entry/src/main/cpp/libpng1.6
+	url = https://salsa.debian.org/debian/libpng1.6.git
